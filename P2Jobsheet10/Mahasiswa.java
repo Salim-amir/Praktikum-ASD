@@ -13,6 +13,6 @@ public Mahasiswa(String nim,String nama,String prodi,String kelas){
     this.kelas = kelas;
 }
 public void tampilkanData(){
-    System.out.println(nim + " - " + nama + " - " +  prodi + " - " + kelas + " - ");
+    System.out.println(nim + " - " + nama + " - " +  prodi + " - " + kelas);
 }
 }
